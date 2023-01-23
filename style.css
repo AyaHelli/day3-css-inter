@@ -1,0 +1,41 @@
+div.almount {
+    display: flex;
+    justify-content: space-between;
+}
+
+.contener {
+    width: 500px;
+    height: 1000px;
+    border: 1px solid black;
+}
+
+.hr {
+    background-color: black;
+    height: 10px;
+    width: 98%;
+    margin: 0 auto;
+}
+
+.right {
+    text-align: right;
+}
+
+.Alper {
+    flex-basis: 70%;
+}
+
+.hr1 {
+    background-color: black;
+    height: 2px;
+    width: 98%;
+    margin: 0 auto;
+}
+
+
+}
+.hr2 {
+    background-color: darkgray;
+    height: 1px;
+    width: 98%;
+    margin: 0 auto;
+}
