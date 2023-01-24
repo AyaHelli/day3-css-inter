@@ -4,15 +4,16 @@ div.almount {
 }
 
 .contener {
-    width: 500px;
-    height: 1000px;
+    width: 510px;
+    height: 1500px;
     border: 1px solid black;
+    padding: 10px
 }
 
 .hr {
     background-color: black;
     height: 10px;
-    width: 98%;
+    width: 100%;
     margin: 0 auto;
 }
 
@@ -27,15 +28,24 @@ div.almount {
 .hr1 {
     background-color: black;
     height: 2px;
-    width: 98%;
+    width: 100%;
     margin: 0 auto;
 }
 
-
-}
 .hr2 {
     background-color: darkgray;
     height: 1px;
     width: 98%;
     margin: 0 auto;
+}
+
+.hr3 {
+    background-color: black;
+    height: 8px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.daily {
+    text-align: right;
 }
